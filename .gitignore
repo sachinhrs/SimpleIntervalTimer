@@ -1,4 +1,4 @@
-/cmd.command
+*.command
 temp/
 .srvn_apps/settings.json
 .DS_Store
