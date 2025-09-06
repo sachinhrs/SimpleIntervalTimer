@@ -3,3 +3,4 @@ temp/
 .srvn_apps/settings.json
 .DS_Store
 timer_settings.json
+dist/
